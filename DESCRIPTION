@@ -1,11 +1,15 @@
 Package: spedtools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Useful functions for working with special ed data in California
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Ryan Estrellado
+Maintainer: Ryan Estrellado <Ryan.Estrellado@gmail.com>
+Description: This package contains functions, data, and lookup vectors to help users who work with California special education data.
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
+Imports: randomNames,
+    lubridate,
+    tibble,
+    purrr
+RoxygenNote: 6.0.1
