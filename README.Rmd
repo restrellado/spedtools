@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Ryan Estrellado"
+date: "12/21/2017"
+output: html_document
+---
+
+Please use `devtools::install_github("hadley/devtools")` for the latest version of `devtools`. 
+
+You can install the `spedtools` package by typing `devtools:install_github("restrellado/spedtools")` in your R console. 
