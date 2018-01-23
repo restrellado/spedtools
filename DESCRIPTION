@@ -11,5 +11,9 @@ LazyData: true
 Imports: randomNames,
     lubridate,
     tibble,
-    purrr
+    purrr, 
+    dplyr, 
+    ggplot2, 
+    readr, 
+    magrittr
 RoxygenNote: 6.0.1
